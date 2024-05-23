@@ -1,0 +1,86 @@
+<Style>
+  .mainContainer{    
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 80px;
+  }
+
+  .Content{
+    margin: 15px;
+    padding: 20px;    
+    display:flex;
+    align-content: center;
+    border: 1px black solid;
+    
+  }
+
+  .titleContainer{
+   text-align: center;
+  }
+
+  .leftContainer{
+    margin-left: auto;
+    border-right: 1px black solid;
+    width: 150px;    
+    padding-right: 15px;
+    padding-top: 10px;
+  }
+
+  .rigthContainer{
+    width: 150px;
+    margin-left: 15px;
+    border: 1px black solid;
+    margin-right: auto;
+    padding: 30px;
+
+  }
+
+  .input{
+    margin-top: 10px;
+    margin-right: 5px;
+    width: 100px;
+  }
+  .texto{
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .button{
+    width: 100px;
+    margin-top: 15px;
+  }
+  .randNumberContainer{
+    margin-top: 10px;
+  }
+
+
+</Style>
+
+<div class="mainContainer">
+  <div class="titleContainer">
+    <h1 class="texto">FizzBuzz Game</h1>
+    <p class="texto">(Blai Romero Madonado)</p>
+  </div>
+  <div class="Content">
+    <div class=" col leftContainer">
+      <h3 class="texto">Max consecutive number</h3>
+      <p class="texto">(If you dont set a max number if will set at 100)</p>
+      <input class="input" type="text" #maxNumberString>
+      <button class="button" (click)="getNumeroFizzBuzz(maxNumberString.value)">Start</button>
+      <div class="randNumberContainer">
+         <p>Random number that start the FizzBuzz:</p>   
+        <p>{{numero}}</p>
+      </div>      
+    </div>
+    <div class="col rigthContainer">
+      <h4>Sequence of the game</h4>
+      @for (item of fizzbuzz; track item) {
+        <p>{{item}}</p>
+      }
+    </div>
+  </div>
+</div>
+
+
+
+

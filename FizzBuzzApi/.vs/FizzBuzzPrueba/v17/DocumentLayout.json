@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\romer\\OneDrive\\Escritorio\\pruebatecnica\\FizzBuzzPrueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71831C12-07E6-4779-842E-2D83D616A470}|FizzBuzzPrueba.Server\\FizzBuzzPrueba.Server.csproj|c:\\users\\romer\\onedrive\\escritorio\\pruebatecnica\\fizzbuzzprueba\\fizzbuzzprueba.server\\controllers\\fizzbuzzcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71831C12-07E6-4779-842E-2D83D616A470}|FizzBuzzPrueba.Server\\FizzBuzzPrueba.Server.csproj|solutionrelative:fizzbuzzprueba.server\\controllers\\fizzbuzzcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71831C12-07E6-4779-842E-2D83D616A470}|FizzBuzzPrueba.Server\\FizzBuzzPrueba.Server.csproj|c:\\users\\romer\\onedrive\\escritorio\\pruebatecnica\\fizzbuzzprueba\\fizzbuzzprueba.server\\fizzbuzzprueba.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71831C12-07E6-4779-842E-2D83D616A470}|FizzBuzzPrueba.Server\\FizzBuzzPrueba.Server.csproj|solutionrelative:fizzbuzzprueba.server\\fizzbuzzprueba.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71831C12-07E6-4779-842E-2D83D616A470}|FizzBuzzPrueba.Server\\FizzBuzzPrueba.Server.csproj|c:\\users\\romer\\onedrive\\escritorio\\pruebatecnica\\fizzbuzzprueba\\fizzbuzzprueba.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71831C12-07E6-4779-842E-2D83D616A470}|FizzBuzzPrueba.Server\\FizzBuzzPrueba.Server.csproj|solutionrelative:fizzbuzzprueba.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\romer\\OneDrive\\Escritorio\\pruebatecnica\\FizzBuzzPrueba\\FizzBuzzPrueba.Server\\Program.cs",
+              "RelativeDocumentMoniker": "FizzBuzzPrueba.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\romer\\OneDrive\\Escritorio\\pruebatecnica\\FizzBuzzPrueba\\FizzBuzzPrueba.Server\\Program.cs",
+              "RelativeToolTip": "FizzBuzzPrueba.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T18:22:52.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FizzBuzzPrueba.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\romer\\OneDrive\\Escritorio\\pruebatecnica\\FizzBuzzPrueba\\FizzBuzzPrueba.Server\\FizzBuzzPrueba.Server.csproj",
+              "RelativeDocumentMoniker": "FizzBuzzPrueba.Server\\FizzBuzzPrueba.Server.csproj",
+              "ToolTip": "C:\\Users\\romer\\OneDrive\\Escritorio\\pruebatecnica\\FizzBuzzPrueba\\FizzBuzzPrueba.Server\\FizzBuzzPrueba.Server.csproj",
+              "RelativeToolTip": "FizzBuzzPrueba.Server\\FizzBuzzPrueba.Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T18:21:39.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FizzBuzzController.cs",
+              "DocumentMoniker": "C:\\Users\\romer\\OneDrive\\Escritorio\\pruebatecnica\\FizzBuzzPrueba\\FizzBuzzPrueba.Server\\Controllers\\FizzBuzzController.cs",
+              "RelativeDocumentMoniker": "FizzBuzzPrueba.Server\\Controllers\\FizzBuzzController.cs",
+              "ToolTip": "C:\\Users\\romer\\OneDrive\\Escritorio\\pruebatecnica\\FizzBuzzPrueba\\FizzBuzzPrueba.Server\\Controllers\\FizzBuzzController.cs",
+              "RelativeToolTip": "FizzBuzzPrueba.Server\\Controllers\\FizzBuzzController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:47:03.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

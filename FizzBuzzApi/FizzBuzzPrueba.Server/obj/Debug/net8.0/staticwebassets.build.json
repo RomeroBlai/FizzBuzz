@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "px+tPplQW5NoyzJbwd7xPmUvHGLdQ8f7J08mjVqgI2A=",
+  "Source": "FizzBuzzPrueba.Server",
+  "BasePath": "_content/FizzBuzzPrueba.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
